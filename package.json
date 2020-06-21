@@ -1,0 +1,14 @@
+{
+  "name": "musicdownloader",
+  "version": "1.0.0",
+  "description": "A Node.js app to download music in bulk",
+  "main": "index.js",
+  "author": "BluSpring",
+  "license": "MIT",
+  "dependencies": {
+    "cookiefile": "^1.0.10",
+    "fluent-ffmpeg": "^2.1.2",
+    "miniget": "^2.0.0",
+    "ytdl-core": "^2.1.7"
+  }
+}
